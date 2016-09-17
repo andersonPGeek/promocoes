@@ -1,0 +1,9 @@
+{
+    "promococao": "Lacoste",
+    "lista": [
+        {"nome_produto": "Camiseta X"},
+        {"codigo_produto": "123"},
+        {"valor_original": "100"},
+        {"percentual_desconto": "10"}
+    ]
+}
